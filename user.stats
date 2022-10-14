@@ -1,9 +1,10 @@
-"currentxp": 0,
-"currentalive": 0,
-"kills": 
-{
-"npc_killed": 0,
-"human_killed: 0,
-"npc_killedby": 0,
-"human_killedby": 0
-}
+[{
+	"currentxp": 0,
+	"currentalive": 0,
+	"kills": {
+		"npc_killed": 0,
+            "human_killed: 0,
+        "npc_killedby": 0,
+       "human_killedby": 0
+	}
+}]
